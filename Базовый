@@ -2,12 +2,6 @@
 url-tvg=http://www.teleguide.info/download/new3/xmltv.xml.gz
 #EXTINF:0,Первый канал
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTINF:-1,Первый канал (+1)
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
-#EXTINF:0,Первый канал (+5)
-http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
-#EXTINF:0,Первый канал (+6)
-http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
 #EXTINF:-1,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Россия 1 HD
@@ -120,8 +114,6 @@ http://hls.goodgame.ru:8080/hls/172148.m3u8
 http://spacetv.in/stream/DVB2D6AE8CU/62.m3u8
 #EXTINF:-1,КИНОПОКАЗ
 http://spacetv.in/stream/DVB2D6AE8CU/64.m3u8
-#EXTINF:-1, Болт
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/bolt-ua.m3u8
 #EXTINF:-1,Amedia Premium HD
 http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8?version=2
 #EXTINF:-1,KVARTAL TV
@@ -900,9 +892,3 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1,МузСоюз
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-#EXTINF:-1,Радио Хит ТВ
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1,RTL 102.5 TV
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
-#EXTINF:-1,Radio Capital
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
