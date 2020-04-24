@@ -1,0 +1,119 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0
+
+#EXTINF:-1 tvg-name="Первый_канал" tvg-logo="Первый канал" group-title="Каналы ЦЭТВ РТРС" ,Первый канал
+udp://@225.77.225.1:5000
+#EXTINF:-1 tvg-name="Россия_1" tvg-logo="Россия" ,Россия
+udp://@225.77.225.2:5000
+#EXTINF:-1 tvg-name="Матч!" tvg-logo="Матч ТВ" ,Матч ТВ
+udp://@225.77.225.3:5000
+#EXTINF:-1 tvg-name="НТВ" tvg-logo="НТВ" ,НТВ
+udp://@225.77.225.4:5000
+#EXTINF:-1 tvg-name="Пятый_Канал" tvg-logo="Пятый канал" ,Пятый канал
+udp://@225.77.225.5:5000
+#EXTINF:-1 tvg-name="Россия_Культура" tvg-logo="Россия Культура" ,Культура
+udp://@225.77.225.6:5000
+#EXTINF:-1 tvg-name="Россия_24" tvg-logo="Россия 24" ,Россия-24
+udp://@225.77.225.7:5000
+#EXTINF:-1 tvg-name="Карусель" tvg-logo="Карусель" ,Карусель
+udp://@225.77.225.8:5000
+#EXTINF:-1 tvg-name="ОТР" tvg-logo="ОТР" ,Общественное телевидение
+udp://@225.77.225.9:5000
+#EXTINF:-1 tvg-name="ТВЦ" tvg-logo="ТВ Центр" ,ТВ Центр
+udp://@225.77.225.10:5000
+#EXTINF:-1 tvg-name="РЕН_ТВ" tvg-logo="РЕН" ,Рен ТВ
+udp://@225.77.225.11:5000
+#EXTINF:-1 tvg-name="Спас_ТВ" tvg-logo="СПАС" ,Спас
+udp://@225.77.225.12:5000
+#EXTINF:-1 tvg-name="СТС" tvg-logo="СТС" ,СТС
+udp://@225.77.225.13:5000
+#EXTINF:-1 tvg-name="Домашний" tvg-logo="Домашний" ,Домашний
+udp://@225.77.225.14:5000
+#EXTINF:-1 tvg-name="ТВ-3" tvg-logo="ТВ3" ,ТВ3
+udp://@225.77.225.15:5000
+#EXTINF:-1 tvg-name="Пятница" tvg-logo="Пятница" ,Пятница
+udp://@225.77.225.16:5000
+#EXTINF:-1 tvg-name="Звезда" tvg-logo="Звезда" ,Звезда
+udp://@225.77.225.17:5000
+#EXTINF:-1 tvg-name="МИР" tvg-logo="Мир" ,Мир
+udp://@225.77.225.18:5000
+#EXTINF:-1 tvg-name="ТНТ" tvg-logo="ТНТ" ,ТНТ
+udp://@225.77.225.19:5000
+#EXTINF:-1 tvg-name="МУЗ-ТВ" tvg-logo="Муз ТВ" ,Муз ТВ
+udp://@225.77.225.20:5000
+
+#EXTINF:-1 tvg-name="Че" tvg-logo="Че" group-title="Открытые каналы IPTV" ,Че
+udp://@225.33.23.225:5000
+#EXTINF:-1 tvg-logo="-TV" ,360° Подмосковье
+udp://@233.3.2.22:5000
+#EXTINF:-1 tvg-name="Disney_Channel" tvg-logo="Disney" ,Disney
+udp://@225.33.23.223:5000
+#EXTINF:-1 tvg-name="Ю" tvg-logo="Ю" ,Ю
+udp://@225.33.23.222:5000
+#EXTINF:-1 tvg-name="Супер" tvg-logo="Супер" ,Супер
+udp://@225.33.23.201:5000
+#EXTINF:-1 tvg-name="ТНТ4" tvg-logo="ТНТ4" ,ТНТ4
+udp://@225.33.23.226:5000
+#EXTINF:-1 tvg-name="Канал_2x2" tvg-logo="2x2" ,2х2
+udp://@225.33.23.224:5000
+#EXTINF:-1 tvg-name="Москва-24" tvg-logo="Москва 24" ,Москва-24
+udp://@233.3.2.21:5000
+#EXTINF:-1 tvg-name="Москва_Доверие" tvg-logo="Доверие" ,Доверие
+udp://@233.3.2.23:5000
+#EXTINF:-1 tvg-logo="-TV" ,Всё ТВ
+udp://@225.33.23.1:5000
+#EXTINF:-1 tvg-name="Тлум_HD" tvg-logo="Мульт" ,Тлум HD
+udp://@225.33.53.70:5000
+
+#EXTINF:-1 tvg-logo="-Radio" group-title="Радио ЦЭТВ РТРС" ,Вести FM
+udp://@225.77.225.201:5000
+#EXTINF:-1 tvg-logo="-Radio" ,Радио Маяк
+udp://@225.77.225.202:5000
+#EXTINF:-1 tvg-logo="-Radio" ,Радио России
+udp://@225.77.225.203:5000
+
+
+
+#EXTINF:-1 tvg-name="Первый_канал" tvg-logo="Первый канал" group-title="Аналоговые дубли (4:3)" ,Первый канал (дубль)
+udp://@233.3.2.1:5000
+#EXTINF:-1 tvg-name="Россия_1" tvg-logo="Россия" ,Россия (дубль)
+udp://@233.3.2.2:5000
+#EXTINF:-1 tvg-name="Россия_Культура" tvg-logo="Россия Культура" ,Культура (дубль)
+udp://@233.3.2.3:5000
+#EXTINF:-1 tvg-name="НТВ" tvg-logo="НТВ" ,НТВ (дубль)
+udp://@233.3.2.4:5000
+#EXTINF:-1 tvg-name="Пятый_Канал" tvg-logo="Пятый канал" ,Пятый канал (дубль)
+udp://@233.3.2.5:5000
+#EXTINF:-1 tvg-name="ТВЦ" tvg-logo="ТВ Центр" ,ТВ Центр (дубль)
+udp://@233.3.2.6:5000
+#EXTINF:-1 tvg-name="РЕН_ТВ" tvg-logo="РЕН" ,Рен ТВ (дубль)
+udp://@233.3.2.7:5000
+#EXTINF:-1 tvg-name="ТНТ" tvg-logo="ТНТ" ,ТНТ (дубль)
+udp://@233.3.2.8:5000
+#EXTINF:-1 tvg-name="ОТР" tvg-logo="ОТР" ,Общественное телевидение (дубль)
+udp://@233.3.2.9:5000
+#EXTINF:-1 tvg-name="РЕН_ТВ" tvg-logo="РЕН" ,Рен ТВ (дубль 2)
+udp://@233.3.2.10:5000
+#EXTINF:-1 tvg-name="ТВ-3" tvg-logo="ТВ3" ,ТВ3 (дубль)
+udp://@233.3.2.11:5000
+#EXTINF:-1 tvg-name="Звезда" tvg-logo="Звезда" ,Звезда (дубль)
+udp://@233.3.2.12:5000
+#EXTINF:-1 tvg-name="Спас_ТВ" tvg-logo="СПАС" ,Спас (дубль)
+udp://@233.3.2.13:5000
+#EXTINF:-1 tvg-name="Домашний" tvg-logo="Домашний" ,Домашний (дубль)
+udp://@233.3.2.14:5000
+#EXTINF:-1 tvg-name="Пятница" tvg-logo="Пятница" ,Пятница (дубль)
+udp://@233.3.2.15:5000
+#EXTINF:-1 tvg-name="СТС" tvg-logo="СТС" ,СТС (дубль)
+udp://@233.3.2.16:5000
+#EXTINF:-1 tvg-name="МУЗ-ТВ" tvg-logo="Муз ТВ" ,Муз ТВ (дубль)
+udp://@233.3.2.17:5000
+#EXTINF:-1 tvg-name="Матч!" tvg-logo="Матч ТВ" ,Матч ТВ (дубль)
+udp://@233.3.2.18:5000
+#EXTINF:-1 tvg-name="Карусель" tvg-logo="Карусель" ,Карусель (дубль)
+udp://@233.3.2.19:5000
+#EXTINF:-1 tvg-name="МИР" tvg-logo="Мир" ,Мир (дубль)
+udp://@233.3.2.20:5000
+#EXTINF:-1 tvg-name="Россия_24" tvg-logo="Россия 24" ,Россия-24 (дубль)
+udp://@233.3.1.137:5000
+#EXTINF:-1 tvg-logo="-TV" ,Тестовый канал
+udp://@233.3.1.160:5000
