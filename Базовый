@@ -9,8 +9,6 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Россия К
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Москва 24
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
 #EXTINF:-1,Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
 #EXTINF:0,ТВ Центр
@@ -71,8 +69,6 @@ http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
 http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
 #EXTINF:-1,Кино ТВ
 http://91.223.105.236:8081/hlsx/274/274.m3u8?id=1188&p=798f0531d76cb111
-#EXTINF:-1,VIP Comedy HD
-https://user11183.clients-cdnnow.ru/hls/ViP_Comedy_HD/master.m3u8
 #EXTINF:-1,VIP Megahit HD
 https://user11183.clients-cdnnow.ru/hls/ViP_Megahit_HD/master.m3u8
 #EXTINF:-1,ViP Premiere HD
@@ -81,28 +77,20 @@ https://user11183.clients-cdnnow.ru/hls/ViP_Premiere_HD/master.m3u8
 https://user11183.clients-cdnnow.ru/hls/VIP_SERIAL/master.m3u8
 #EXTINF:-1,ViP Comedy HD
 http://178.217.72.66/225.201.2.170/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ViP Megahit HD
-http://178.217.72.66/225.201.2.171/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ViP Premiere HD
 http://178.217.72.66/225.201.2.172/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV1000 HD
-https://user11183.clients-cdnnow.ru/hls/TV1000_HD/master.m3u8
-#EXTINF:-1,TV1000 Action HD
+#EXTINF:-1,TV1000 Action ( Аналоговое вещание )
 https://user11183.clients-cdnnow.ru/hls/TV1000_Action_HD/master.m3u8
-#EXTINF:-1,TV1000 Русское кино HD
+#EXTINF:-1,TV1000 Русское кино ( Аналоговое вещание )
 https://user11183.clients-cdnnow.ru/hls/TV1000_Russian_Kino_HD/master.m3u8
-#EXTINF:-1,TV1000
+#EXTINF:-1,TV1000  ( Аналоговое вещание )
 http://178.124.183.13/hls/6WMZMUEWGN/bw1200000/playlist.m3u8
-#EXTINF:-1,TV1000 Action
+#EXTINF:-1,TV1000 Action  ( Аналоговое вещание )
 http://178.124.183.13/hls/9X9NUEEKGW/bw1200000/playlist.m3u8
-#EXTINF:-1,TV1000 Русское кино
-http://178.124.183.13/hls/PWIKICZUYF/bw1200000/playlist.m3u8
 #EXTINF:-1,Красная линия 
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:-1,Hollywood
 http://178.217.72.66/225.201.2.76/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Hollywood HD
-http://178.217.72.66/225.201.2.85/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Кинозал KVN-HD
 http://hls.goodgame.ru:8080/hls/172148.m3u8
 #EXTINF:-1,CINEMA
@@ -191,16 +179,12 @@ http://178.217.72.66/225.201.2.44/tracks-v1a1/mono.m3u8
 http://178.217.72.66/225.201.2.219/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Мужское кино
 http://178.217.72.66/225.201.2.182/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Наше TV
-http://178.217.72.66/225.201.2.69/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Наше любимое кино
 http://178.217.72.66/225.201.2.204/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Наше новое кино
 http://178.217.72.66/225.201.2.45/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ностальгия
 http://178.217.72.66/225.201.2.17/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Родное кино
-http://178.217.72.66/225.201.2.56/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Русский Иллюзион
 http://178.217.72.66/225.201.2.194/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Совершенно секретно
@@ -251,8 +235,6 @@ http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/set.m3u8
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sony-sci-fi.m3u8
 #EXTINF:-1, Sony Turbo
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sony-turbo.m3u8
-#EXTINF:-1, Сов. Секретно
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sovershenno-sekretno.m3u8
 #EXTINF:-1, Spike
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/spike.m3u8
 #EXTINF:-1,Комедийное
@@ -275,8 +257,6 @@ http://spacetv.in/stream/DVB2D6AE8CU/170.m3u8
 http://spacetv.in/stream/DVB2D6AE8CU/171.m3u8
 #EXTINF:-1,Страшное HD
 http://spacetv.in/stream/DVB2D6AE8CU/226.m3u8
-#EXTINF:-1,Родное Кино
-http://spacetv.in/stream/DVB2D6AE8CU/242.m3u8
 #EXTINF:-1,Кинокомедия
 http://spacetv.in/stream/DVB2D6AE8CU/265.m3u8
 #EXTINF:-1,Русский Роман
@@ -297,12 +277,8 @@ http://78.157.230.19/streaming/nashe_novoe_kino/364/gpu_tvrecw/playlist.m3u8
 http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
 #EXTINF:-1, Еврокино
 http://178.217.72.66:80/225.201.2.198/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Дом кино
-http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Мужское кино
 http://188.113.190.12/316/video.m3u8
-#EXTINF:-1,Мужское кино HD
-http://188.35.9.11:2022
 #EXTINF:-1,Звезда
 http://79.135.71.195:8014
 #EXTINF:-1,КINO SAT
@@ -546,8 +522,6 @@ http://ott-cdn.ucom.am/s76/index.m3u8
 http://ott-cdn.ucom.am/s31/index.m3u8
 #EXTINF:-1,RTG
 http://ott-cdn.ucom.am/s80/index.m3u8
-#EXTINF:-1,RTG HD
-http://ott-cdn.ucom.am/s63/index.m3u8
 #EXTINF:-1,Food Network
 http://ott-cdn.ucom.am/s18/index.m3u8
 #EXTINF:-1,Охотник и Рыболов
