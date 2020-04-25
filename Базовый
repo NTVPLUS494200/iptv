@@ -126,8 +126,6 @@ http://178.124.183.13/hls/EDVYQYGHF8/bw1200000/playlist.m3u8
 http://178.124.183.13/hls/CH_STARCINEMA/bw1200000/playlist.m3u8
 #EXTINF:-1,Star Family
 http://178.124.183.13/hls/CH_FAMILY/bw1200000/playlist.m3u8
-#EXTINF:-1,Болт
-http://178.124.183.13/hls/CH_BOLT/bw1200000/playlist.m3u8
 #EXTINF:-1,Дом Кино Премиум HD
 http://188.35.9.26:12030/udp/160l
 #EXTINF:-1,Дом кино
@@ -363,18 +361,8 @@ http://178.217.72.66/225.201.2.113/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FAN HD
 #EXTVLCOPT:http-user-agent=smartlabs
 https://hls.goodgame.ru/manifest/157239_master.m3u8
-#EXTINF:-1, 1 Мистический
-http://mnogotv.club:8888//mistika/index.m3u8
-#EXTINF:-1 ,VHS
-http://mnogotv.club:8888//vhs/index.m3u8
 #EXTINF:-1,HD Kiнозал
 http://mnogotv.club:8888//hdkinozal/index.m3u8
-#EXTINF:-1 ,Семейный
-http://mnogotv.club:8888//kids/index.m3u8
-#EXTINF:-1,Великолепный Век
-http://topchantv.net:3456/test/coronaV/6
-#EXTINF:-1,80's
-http://topchantv.net:3456/test/coronaV/277
 #EXTINF:-1,BUDO HD
 http://topchantv.net:3456/test/coronaV/428
 #EXTINF:-1,CINEMA HD
