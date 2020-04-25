@@ -3,7 +3,7 @@ url-tvg=http://www.teleguide.info/download/new3/xmltv.xml.gz
 #EXTINF:0,Первый канал
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:-1,Известия
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+https://youtu.be/JlHXC7OdDFQ
 #EXTINF:-1,Россия 1 HD
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Дождь
