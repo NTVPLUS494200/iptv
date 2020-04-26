@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0
 
 #EXTINF:-1 tvg-name="Первый_канал" tvg-logo="Первый канал" group-title="Каналы ЦЭТВ РТРС" ,Первый канал
-udp://@225.77.225.1:5000
+https://yadi.sk/i/jiUKqYoMy0-uvg
 #EXTINF:-1 tvg-name="Россия_1" tvg-logo="Россия" ,Россия
-udp://@225.77.225.2:5000
+https://yadi.sk/i/jiUKqYoMy0-uvg
 #EXTINF:-1 tvg-name="Матч!" tvg-logo="Матч ТВ" ,Матч ТВ
 udp://@225.77.225.3:5000
 #EXTINF:-1 tvg-name="НТВ" tvg-logo="НТВ" ,НТВ
 udp://@225.77.225.4:5000
 #EXTINF:-1 tvg-name="Пятый_Канал" tvg-logo="Пятый канал" ,Пятый канал
-udp://@225.77.225.5:5000
+https://yadi.sk/i/jiUKqYoMy0-uvg
 #EXTINF:-1 tvg-name="Россия_Культура" tvg-logo="Россия Культура" ,Культура
 udp://@225.77.225.6:5000
 #EXTINF:-1 tvg-name="Россия_24" tvg-logo="Россия 24" ,Россия-24
