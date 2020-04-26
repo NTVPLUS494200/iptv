@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTM3U url-tvg=http://www.teleguide.info/download/new3/jtv.zip
-#EXTINF:0,Первый канал  tvg-logo="http://img12.lostpic.net/2018/05/12/959ec69dbfa62ca8bb134a9bb7e968e8.png"
+#EXTINF:0,Первый канал 
 http://37.29.108.2/adlive/211/playlist.m3u8
-#EXTINF:-1,Россия 1  tvg-logo="Россия 1"
+#EXTINF:-1,Россия 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u
-#EXTINF:-1,Россия 24  tvg-logo="Россия 24"
+#EXTINF:-1,Россия 24  
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Россия К  tvg-logo="Россия К"
+#EXTINF:-1,Россия К 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Звезда  tvg-logo="Звезда"
+#EXTINF:-1,Звезда 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
-#EXTINF:0,ТВ Центр  tvg-logo=ТВ Центр"
+#EXTINF:0,ТВ Центр  
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
-#EXTINF:0,Мир  tvg-logo="Мир"
+#EXTINF:0,Мир 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
-#EXTINF:-1,НТВ  tvg-logo="НТВ"
+#EXTINF:-1,НТВ  
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,НТВ Стиль
 http://178.124.183.150/hls/CH_NTVSTIL_HLS/bw1200000/playlist.m3u8
