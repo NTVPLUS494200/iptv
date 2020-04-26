@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTM3U url-tvg=http://www.teleguide.info/download/new3/jtv.zip
-#EXTINF:0,Первый канал group-title="Федеральныу каналы"
+#EXTINF:0,Первый канал
 http://37.29.108.2/adlive/211/playlist.m3u8
 #EXTINF:-1,Россия 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u
@@ -110,10 +110,6 @@ http://178.124.183.150/hls/CH_DOMKINO_HLS/bw1200000/playlist.m3u8
 http://178.124.183.150/hls/JEDUS3FS7V_HLS/bw1200000/playlist.m3u8
 #EXTINF:-1,Жара
 http://178.124.183.13/hls/DXBSFZDTDG/bw1200000/playlist.m3u8
-#EXTINF:-1,Индийское кино
-http://178.124.183.13/hls/CH_INDIYATV/bw1200000/playlist.m3u8
-#EXTINF:-1,КВН ТВ
-http://178.124.183.150/hls/CH_KVN_HLS/bw1200000/playlist.m3u8
 #EXTINF:-1,КиноМикс
 http://178.124.183.150/hls/VVG76MWUGX_HLS/bw1200000/playlist.m3u8
 #EXTINF:-1,Кинопремьера HD
